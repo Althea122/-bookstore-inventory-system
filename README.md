@@ -45,26 +45,26 @@ Here are screenshots demonstrating the flow and functionality of the application
 
 ### 1. Main Menu
 *(A screenshot of the main menu options)*
-![Main Menu](screenshotsmain_menu.JPG)
+![Image](https://github.com/user-attachments/assets/6c57747e-3a83-4558-8066-36c4a82b82e2)
 
 ### 2. Adding New Books
 *(A screenshot showing the process of adding a couple of books)*
-![Adding Books](screenshotsadding_books.JPG)
+![Image](https://github.com/user-attachments/assets/c1dd1013-d451-46a4-8417-b278db072216)
 
 ### 3. Displaying All Books (Unsorted)
 *(A screenshot showing the list of books before sorting)*
-![Display Unsorted](screenshotsdisplay_unsorted.JPG)
+![Image](https://github.com/user-attachments/assets/6c57747e-3a83-4558-8066-36c4a82b82e2)
 
 ### 4. Sorting and Displaying Books
 *(A screenshot showing the message after sorting and the newly sorted list)*
-![Sorting and Displaying](screenshotssorting.JPG)
+![Image](https://github.com/user-attachments/assets/c89c1e4c-1238-45f9-babf-93047cd3724e)
 
 ### 5. Searching for a Book
 *(A screenshot of the output when searching for a book that exists)*
-![Search Found](screenshotssearch_found.JPG)
+![Image](https://github.com/user-attachments/assets/a1e0e367-fa5e-45a9-80a3-3049fc4536cd)
 
 ### 6. Managing Customer Orders with the Queue
 *(A screenshot showing a book being added to the order queue and then processed)*
-![Queue Operations](screenshotsqueue_operations.JPG)
+![Image](https://github.com/user-attachments/assets/27b5ab9c-3bd1-4b4a-b827-c51fa7c7f2f3)
 
 
